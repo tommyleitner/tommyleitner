@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommyleitner
 - 👀 I’m interested in learning sth new
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working Flutter
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: LinkedIn: (https://www.linkedin.com/in/thomas-leitner-369852148/)
 

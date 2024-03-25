@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tommyleitner
 - 👀 I’m interested in learning sth new
-- 🌱 I’m currently learning python, django
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me Dicsord: tommy.lei
+- 📫 How to reach me: LinkedIn: (https://www.linkedin.com/in/thomas-leitner-369852148/)
 
 <!---
 tommyleitner/tommyleitner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
